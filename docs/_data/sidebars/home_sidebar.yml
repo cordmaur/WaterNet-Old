@@ -11,10 +11,10 @@ entries:
       url: /
     - output: web,pdf
       title: Core Module
-      url: core.html
+      url: core
     - output: web,pdf
       title: Title
-      url: test.html
+      url: test
     output: web
     title: WaterNet
   output: web
