@@ -13,8 +13,8 @@ entries:
       title: Core Module
       url: core
     - output: web,pdf
-      title: Title
-      url: test
+      title: Water Shadow 1
+      url: WaterShadow-1
     output: web
     title: WaterNet
   output: web
