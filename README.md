@@ -2,6 +2,10 @@
 > Updated documentation
 
 
+```python
+from nbdev import *
+```
+
 This file will become your README and also the index of your documentation.
 
 ## Install
