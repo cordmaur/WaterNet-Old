@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"say_hello": "00_core.ipynb",
+         "display_hello": "01_test.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "test.py"]
 
 doc_url = "https://cordmaur.github.io/WaterNet/"
 

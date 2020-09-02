@@ -1,6 +1,7 @@
 {
   "WaterNet": {
     "Overview": "/",
-    "Core Module": "core.html"
+    "Core Module": "core.html",
+    "Title": "test.html"
   }
 }
